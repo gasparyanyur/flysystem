@@ -1,5 +1,5 @@
 {
-    "name": "league/flysystem",
+    "name": "gasparyanyur/flysystem",
     "description": "Filesystem abstraction: Many filesystems, one API.",
     "keywords": [
         "filesystem", "filesystems", "files", "storage", "dropbox", "aws",
